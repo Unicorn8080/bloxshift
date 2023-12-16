@@ -1,0 +1,1 @@
+export { OutlinePhoneCall } from "./OutlinePhoneCall";
